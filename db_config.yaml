@@ -1,0 +1,8 @@
+---
+
+host: 'localhost'
+port: 11972
+user: '108502523'
+password: 'fuckmysql'
+
+...
